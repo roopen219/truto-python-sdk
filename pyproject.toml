@@ -1,9 +1,10 @@
 [tool.poetry]
 name = "truto-python-sdk"
-version = "0.1.0"
+version = "0.1.1"
 description = "Python3 SDK for the Truto API"
 authors = ["Roopendra Talekar <roopendratalekar@gmail.com>"]
 readme = "README.md"
+repository = "https://github.com/trutohq/truto-python-sdk"
 
 [tool.poetry.dependencies]
 python = "^3.12"
